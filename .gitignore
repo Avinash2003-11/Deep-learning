@@ -1,0 +1,29 @@
+# Ignore virtual environments
+tf-env/
+.venv/
+env/
+ENV/
+
+# TensorFlow generated files
+saved_model/
+*.pb
+checkpoint/
+logs/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+*.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Package metadata
+*.egg-info/
+*.dist-info/
+
+# MacOS/Linux/Windows system files
+.DS_Store
+Thumbs.db
