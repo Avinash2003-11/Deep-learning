@@ -27,3 +27,4 @@ __pycache__/
 # MacOS/Linux/Windows system files
 .DS_Store
 Thumbs.db
+datasets/
