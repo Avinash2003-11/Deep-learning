@@ -28,3 +28,4 @@ __pycache__/
 .DS_Store
 Thumbs.db
 datasets/
+face-detection-yolov8/
